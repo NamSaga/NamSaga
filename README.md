@@ -1,9 +1,4 @@
 <p align="center">
-  <a href="https://github.com/NamSaga">
-    <img src="https://github.com/user-attachments/assets/87f755ce-6b6b-4c31-a34f-95b3c483ccef" alt="Saga Randria" /></a>
-</p>
-
-<p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Low-level+programmer;I+do+hard+things+until+they+become+easy;&font=JetBrainMono%20Code&center=true&width=600&height=45&color=98c379&vCenter=true&pause=1000&size=22" /></a>
