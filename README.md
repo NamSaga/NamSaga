@@ -41,7 +41,7 @@
 
 <p align="center">
 <a href="https://github.com/NamSaga">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NamSaga&show_icons=true&theme=onedark&include_all_commits=false&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NamSaga&layout=compact&langs_count=8&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NamSaga&show_icons=true&theme=onedark&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NamSaga&layout=compact&langs_count=8&theme=onedark"/>
 </a>
 </p>
