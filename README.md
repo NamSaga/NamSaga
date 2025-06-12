@@ -1,4 +1,4 @@
-# Hello there !
+# Hello !
 I'm **Saga**,  
 A CS student who likes to figure out about how computer works.
 
