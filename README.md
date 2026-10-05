@@ -1,9 +1,6 @@
 # Hello !
 I'm **Saga**,  
-A CS student who likes to figure out about how computer and networking works.
-</br> 
-</br>
-I also make games and game tools.
+I like to figure out about computer graphics and networking.
 
 </br>
   
