@@ -1,6 +1,7 @@
 # Hello !
 I'm **Saga**,  
 A CS student who likes to figure out about how computer and networking works.
+</br> 
 I also make games and game tools.
 
 </br>
@@ -12,5 +13,4 @@ I also make games and game tools.
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </br>
- ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
  [![Made with Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot%20engine&logoColor=white)](https://godotengine.org)
