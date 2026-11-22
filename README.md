@@ -1,6 +1,6 @@
 # Hello !
 I'm **Saga**,  
-I like to figure out about computer graphics and networking. </br> 
+I like to figure out about computer graphics and networking, I also make games and game tools </br> 
 Experimenting with AI in this era of flying cars.
 
 </br>
